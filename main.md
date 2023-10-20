@@ -1,18 +1,17 @@
 ### Short bio
 <img align="right" src=img/renzo_massobrio.jpg hspace="10" alt="profile picture" width="180" height="180">
 
-I am a Postdoc Researcher at the [Smart Public Transport Lab at TU Delft](http://smartptlab.tudelft.nl/) funded by the Margarita Salas grant by Universidad de Cádiz (Spanish Ministry of Science - NextGenerationEU). Under the supervision of Dr. Oded Cats, my current research focuses on applying network analysis for the comparative assessment of public transport networks in terms of accessibility, equity, and recoverability in the event of failures.
+I am a Postdoc Researcher under the supervision of Prof. Oded Cats at the [Smart Public Transport Lab at TU Delft](http://smartptlab.tudelft.nl/) funded by a Margarita Salas grant at Universidad de Cádiz (Spanish Ministry of Science - NextGenerationEU).
 
 I am a Ph.D. in Computer Science from Universidad de Cádiz (Spain) and hold a M.Sc. in Computer Science and a degree in Engineering in Computer Science, both from Universidad de la República (Uruguay).
-I am a teaching and research assistant at the Faculty of Engineering, Universidad de la República since 2014. I am also an active member at the National System of Researchers ([SNI](https://www.sni.org.uy/)) since 2019 and a researcher at the Computer Science area of the Program for the Development of Basic Sciences ([PEDECIBA-Informática](https://www.pedeciba.edu.uy/%C3%A1rea-inform%C3%A1tica/)) since 2021.
+I have been a teaching and research assistant at the Faculty of Engineering, Universidad de la República since 2014. I am also a researcher at the National System of Researchers ([SNI](https://www.sni.org.uy/)) since 2019 and a researcher at the Computer Science area of the Program for the Development of Basic Sciences ([PEDECIBA-Informática](https://www.pedeciba.edu.uy/%C3%A1rea-inform%C3%A1tica/)) since 2021.
 
-My main research interests are computational intelligence, metaheuristics, and high-performance computing applied to solving complex optimization problems. Currently, I am focused on addressing urban mobility and public transport problems.
-
+My research centers on using data analysis and artificial intelligence to tackle complex urban problems. To achieve this, I combine methods from operations research, machine learning, network science, high-performance computing and geographic information systems. I specialize in urban mobility, with a focus on service operations and control, topological assessment of public transport networks, accessibility and equity, and passenger demand analysis.
 
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2022-09-06).*
+**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2023-10-20).*
 </p>
 
 <p style="text-align: center;">
@@ -21,15 +20,15 @@ My main research interests are computational intelligence, metaheuristics, and h
 
 ---
 <p style="text-align: center;">
-My **Ph.D. thesis** is available [here](http://www.fing.edu.uy/~renzom/phd/uploads/phd-thesis.pdf) and all the related research material is available in [this site](http://www.fing.edu.uy/~renzom/phd)
+My **Ph.D. thesis** is available [here](phd-thesis.pdf) and all the related research material is available in [this site](http://www.fing.edu.uy/~renzom/phd)
 </p>
 
 <p style="text-align: center;">
-My **M.Sc. thesis** is available [here](http://www.fing.edu.uy/~renzom/msc/uploads/msc-thesis.pdf) and all the related research material is available in [this site](http://www.fing.edu.uy/~renzom/msc)
+My **M.Sc. thesis** is available [here](msc-thesis.pdf) and all the related research material is available in [this site](http://www.fing.edu.uy/~renzom/msc)
 </p>
 
 <p style="text-align: center;">
-My **undergraduate thesis** is available [here (in spanish)](http://www.fing.edu.uy/inco/grupos/cecal/hpc/AG-Taxi/informe_final.pdf) and all the related research material is available in [this site](https://www.fing.edu.uy/inco/grupos/cecal/hpc/AG-Taxi/index.php)
+My **undergraduate thesis** is available [here (in spanish)](informe_final.pdf) and all the related research material is available in [this site](https://www.fing.edu.uy/inco/grupos/cecal/hpc/AG-Taxi/index.php)
 </p>
 
 ---
