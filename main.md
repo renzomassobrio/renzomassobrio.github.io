@@ -1,17 +1,14 @@
 ### Short bio
 <img align="right" src=img/renzo_massobrio.jpg hspace="10" alt="profile picture" width="180" height="180">
 
-I am a Postdoc Researcher under the supervision of Prof. Oded Cats at the [Smart Public Transport Lab at TU Delft](http://smartptlab.tudelft.nl/) funded by a Margarita Salas grant at Universidad de Cádiz (Spanish Ministry of Science - NextGenerationEU).
-
-I am a Ph.D. in Computer Science from Universidad de Cádiz (Spain) and hold a M.Sc. in Computer Science and a degree in Engineering in Computer Science, both from Universidad de la República (Uruguay).
-I have been a teaching and research assistant at the Faculty of Engineering, Universidad de la República since 2014. I am also a researcher at the National System of Researchers ([SNI](https://www.sni.org.uy/)) since 2019 and a researcher at the Computer Science area of the Program for the Development of Basic Sciences ([PEDECIBA-Informática](https://www.pedeciba.edu.uy/%C3%A1rea-inform%C3%A1tica/)) since 2021.
+I am a Principal Research Fellow at the [Modelling for Sustainability group at University of Antwerp](https://www.uantwerpen.be/en/research-groups/modelling-for-sustainability/).
 
 My research centers on using data analysis and artificial intelligence to tackle complex urban problems. To achieve this, I combine methods from operations research, machine learning, network science, high-performance computing and geographic information systems. I specialize in urban mobility, with a focus on service operations and control, topological assessment of public transport networks, accessibility and equity, and passenger demand analysis.
 
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2023-10-20).*
+**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2024-01-04).*
 </p>
 
 <p style="text-align: center;">
@@ -36,17 +33,14 @@ My **undergraduate thesis** is available [here (in spanish)](informe_final.pdf) 
 ### Contact details
 
 #### E-mail
-* [renzom@fing.edu.uy](mailto:renzom@fing.edu.uy)
+* [renzo.massobrio@uantwerpen.be](mailto:renzo.massobrio@uantwerpen.be)
 
 #### Institutional address
-Departamento de Transporte, Instituto de Estructuras y Transporte   
-Facultad de Ingeniería, Universidad de la República   
-Julio Herrera y Reissig, 565   
-Montevideo, Uruguay, 11300
+University of Antwerp
+Groenenborgerlaan 171 (Office G.U.125)
+2020 Antwerp, Belgium
 
-(+598) 27142714 (ext. 14206)
-
-#### Profiles
+#### Profiles	
 * [Google Scholar](https://scholar.google.com/citations?user=QE-Y_58AAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Renzo_Massobrio)
 * [Github](https://github.com/renzomassobrio)
