@@ -36,14 +36,10 @@ My **undergraduate thesis** is available [here (in spanish)](informe_final.pdf) 
 * [renzo.massobrio@uantwerpen.be](mailto:renzo.massobrio@uantwerpen.be)
 
 #### Institutional address
-Renzo Massobrio
-
-(Office G.U.125)
-
-Groenenborgerlaan 171 
-
-2020 Antwerp
-
+Renzo Massobrio\
+(Office G.U.125)\
+Groenenborgerlaan 171\
+2020 Antwerp\
 Belgium
 
 #### Profiles	
