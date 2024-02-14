@@ -1,7 +1,7 @@
 ### Short bio
 <img align="right" src=img/renzo_massobrio.jpg hspace="10" alt="profile picture" width="180" height="180">
 
-I am a Principal Research Fellow at the [Modelling for Sustainability group at University of Antwerp](https://www.uantwerpen.be/en/research-groups/modelling-for-sustainability/).
+I am a Principal Research Fellow at the [Modelling for Sustainability group](https://www.uantwerpen.be/en/research-groups/modelling-for-sustainability/) at [University of Antwerp](https://www.uantwerpen.be/en/).
 
 My research centers on using data analysis and artificial intelligence to tackle complex urban problems. To achieve this, I combine methods from operations research, machine learning, network science, high-performance computing and geographic information systems. I specialize in urban mobility, with a focus on service operations and control, topological assessment of public transport networks, accessibility and equity, and passenger demand analysis.
 
@@ -36,9 +36,15 @@ My **undergraduate thesis** is available [here (in spanish)](informe_final.pdf) 
 * [renzo.massobrio@uantwerpen.be](mailto:renzo.massobrio@uantwerpen.be)
 
 #### Institutional address
-University of Antwerp
-Groenenborgerlaan 171 (Office G.U.125)
-2020 Antwerp, Belgium
+Renzo Massobrio
+
+(Office G.U.125)
+
+Groenenborgerlaan 171 
+
+2020 Antwerp
+
+Belgium
 
 #### Profiles	
 * [Google Scholar](https://scholar.google.com/citations?user=QE-Y_58AAAAJ)
