@@ -8,7 +8,7 @@ My research centers on using data analysis and artificial intelligence to tackle
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2024-01-04).*
+**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2024-02-15).*
 </p>
 
 <p style="text-align: center;">
@@ -36,10 +36,10 @@ My **undergraduate thesis** is available [here (in spanish)](informe_final.pdf) 
 * [renzo.massobrio@uantwerpen.be](mailto:renzo.massobrio@uantwerpen.be)
 
 #### Institutional address
-Renzo Massobrio\
-(Office G.U.125)\
-Groenenborgerlaan 171\
-2020 Antwerp\
+Renzo Massobrio  
+(Office G.U.125)  
+Groenenborgerlaan 171  
+2020 Antwerp  
 Belgium
 
 #### Profiles	
@@ -53,19 +53,3 @@ Belgium
 * [CVuy](https://exportcvuy.anii.org.uy/cv/?52cadea6e9af151c40bfac1e93091429fc5472cb786eeba8b73346a32330f07a9a150a39ce1e2e5d138d42b4e3edd69d8b0eefb9522854e6c970f54e9bf4f4c2)
 
 ---
-<!---
-
-### News
-* **Jun 2019:** I did a presentation at "Workshop Interdisciplinario sobre Movilidad y Transporte". You can download the [slides](http://www.fing.edu.uy/~renzom/uploads/Massobrio_IESTA.pdf) and some [complementary videos](http://www.fing.edu.uy/~renzom/uploads/videos_workshop_IESTA.zip)
-* **Feb 2019:** News coverage of the talk at "Workshop Internacional: Planificación de Transporte y Ciudades Inteligentes". [La Diaria](https://ciencia.ladiaria.com.uy/articulo/2019/2/proyectos-sobre-eficiencia-energetica-movilidad-urbana-gestion-de-residuos-entre-otros-fueron-presentados-en-la-facultad-de-ingenieria/)
-* **Feb 2019:** I did a presentation at "Workshop Internacional: Planificación de Transporte y Ciudades Inteligentes". You can download the [slides](http://www.fing.edu.uy/~renzom/uploads/workshop-massobrio.pdf) and some [complementary videos](http://www.fing.edu.uy/~renzom/uploads/workshop-massobrio-videos.zip)
-* **Dec 2018:** I defended my M.Sc. thesis. The manuscript, slides, and data files can be found at the [thesis website](www.fing.edu.uy/~renzom/msc). 
-* **Oct 2018:** Our paper "Traffic light synchronization for Bus Rapid Transit using a parallel evolutionary algorithm" was accepted for publication at International Journal of Transportation Science and Technology [link](https://authors.elsevier.com/tracking/article/details.do?aid=83&jid=IJTST&surname=Massobrio)
-* **Sep	2018:**	Our paper "Planificación de transporte urbano en ciudades inteligentes"	was accepted at	I Congreso Iberoamericano de Ciudades Inteligentes
-* **Aug 2018:** Our project proposal to study the role of public transport in the accesibility to employment opportunities was accepted at the call for funds for "Research based on data" by the Ministry of Industry, Energy and Mining.
-
-
-[News archive](news.md)
-
--->
-
