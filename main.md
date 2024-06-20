@@ -8,7 +8,7 @@ My research centers on using data analysis and artificial intelligence to tackle
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_short_en.pdf)** *(updated: 2024-03-26).*
+**You can download my full CV [in spanish](CV_es_short.pdf) and [in english](CV_en_short.pdf)** *(updated: 2024-03-26).*
 </p>
 
 <p style="text-align: center;">
