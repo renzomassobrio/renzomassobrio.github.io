@@ -53,3 +53,5 @@ Belgium
 * [CVuy](https://exportcvuy.anii.org.uy/cv/?52cadea6e9af151c40bfac1e93091429fc5472cb786eeba8b73346a32330f07a9a150a39ce1e2e5d138d42b4e3edd69d8b0eefb9522854e6c970f54e9bf4f4c2)
 
 ---
+### Recent presentations
+* European Transport Conference (ETC 2025) [Slides](ETC.pdf)
